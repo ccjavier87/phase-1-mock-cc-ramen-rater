@@ -29,8 +29,14 @@
   "homepage": "https://github.com/learn-co-curriculum/phase-1-mock-cc-ramen-rater#readme",
   "dependencies": {
     "chai": "^4.2.0",
+    "cors": "^2.8.5",
     "jsdom": "^9.0",
+    "json-serve": "^0.1.0",
+    "json-server": "^0.17.3",
     "mocha": "5.2.0",
     "mocha-jsdom": "~1.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
   }
 }
